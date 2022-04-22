@@ -11,7 +11,9 @@
 ---
 
 <h2 align="center"> About Me: </h2>
-I am a recently graduated Computer Science and Engineering student from the University of California, Irvine. I took Electrical Engineering, Computer Engineering, and Computer Science classes during my time at school, but I have a passion for software! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p align="center">
+I am a recently graduated Computer Science and Engineering student from the University of California, Irvine. I took Electrical Engineering, Computer Engineering, and Computer Science classes during my time at school, but I have a passion for software! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
+</p>
 
 - 😄 I am currently in the search for a job as an entry level software engineer!
 - 📫 I am currently working on updating a Spotify Mood Ring and adding new features that were not previously implemented
