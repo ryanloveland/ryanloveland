@@ -2,7 +2,7 @@
   <h1> Hi there!</h1>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ryanjloveland/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,9 +11,12 @@
 ---
 
 <h2 align="center"> About Me: </h2>
-<p align="center">
-I am a recently graduated Computer Science and Engineering student from the University of California, Irvine. I took Electrical Engineering, Computer Engineering, and Computer Science classes during my time at school, but I have a passion for software! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
-</p>
+<div align="center">
+I am a recently graduated Computer Science and Engineering student from the University of California, Irvine. I took Electrical Engineering, Computer Engineering, and Computer Science classes during my time at school, but I have a passion for software! 
+</div>
+<div>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
+</div>
 
 - 😄 I am currently in the search for a job as an entry level software engineer!
 - 📫 I am currently working on updating a Spotify Mood Ring and adding new features that were not previously implemented
