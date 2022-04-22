@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi there!</h1>
+  <h1> Hey! It's me, Ryan</h1>
 </div>
 
 <div id="badges" align="center">
@@ -15,7 +15,7 @@
 I am a recently graduated Computer Science and Engineering student from the University of California, Irvine. I took Electrical Engineering, Computer Engineering, and Computer Science classes during my time at school, but I have a passion for software! 
 </div>
 <div>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
+  <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
 </div>
 
 - 😄 I am currently in the search for a job as an entry level software engineer!
