@@ -12,7 +12,8 @@
 
 <h2 align="center"> About Me: </h2>
 <div align="center">
-I am a recently graduated Computer Science and Engineering student from the University of California, Irvine. I took Electrical Engineering, Computer Engineering, and Computer Science classes during my time at school, but I have a passion for software! 
+I have been employed as a Software Engineer for 2+ years and I am currently looking for a new role.
+I graduated as a Computer Science and Engineering student from the University of California, Irvine. I took Electrical Engineering, Computer Engineering, and Computer Science classes during my time at school, but I have a passion for software! 
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
