@@ -18,10 +18,8 @@ I am a recently graduated Computer Science and Engineering student from the Univ
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
 </div>
 
-- 😄 I am currently in the search for a job as an entry level software engineer!
-- 🤔 I am currently working on updating a Spotify Mood Ring and adding new features that were not previously implemented
-- ⚡ I am interested in learning SQL and C# and I am thinking about taking some online courses in them very soon!
-- 🌱 I recently just finished a Web Development Boot Camp through Udemy where I learned HTML, CSS, Javascript, and much more!
+- 😄 I am currently in the search for a job as a backend software engineer!
+- ⚡ I am proficient in SQL and C#!
 - 🤔 In my free time I like to learn new languages like Japanese and Spanish, as well as work out
 - 📫 The best way to reach me is through my LinkedIn above (send me a message!)
 
